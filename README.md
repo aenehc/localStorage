@@ -1,5 +1,7 @@
 # LocalStorage
 
+Open index.html, wait a few seconds then refresh the page ;)
+
 
 ## Install && Running
 
